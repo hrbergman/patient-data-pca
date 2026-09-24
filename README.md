@@ -1,2 +1,13 @@
-# patient-data-pca
-Dimensionality Reduction with Principal Component Analysis
+### Dimensionality Reduction with Principal Component Analysis
+**Tools: Python, pandas, scikit-learn (PCA, StandardScaler), Matplotlib** | M.S. Data Analytics Project (D212 - Data Mining II)
+
+Using PCA to find the underlying dimensions that summarize patient characteristics and hospital utilization.
+ 
+- Standardized ten continuous variables covering demographics, health indicators, and utilization
+- Selected two principal components using a scree plot, together explaining 40.32% of total variance
+- Interpreted PC1 (29.86%) as a hospital resource utilization and cost dimension, and PC2 (10.46%) as a patient health and nutrition dimension
+
+
+[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+| 
+[Video Presentation](https://youtu.be/jKOE0cG68rc)
