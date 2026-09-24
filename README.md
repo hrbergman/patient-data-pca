@@ -8,6 +8,6 @@ Using PCA to find the underlying dimensions that summarize patient characteristi
 - Interpreted PC1 (29.86%) as a hospital resource utilization and cost dimension, and PC2 (10.46%) as a patient health and nutrition dimension
 
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/patient-data-pca/blob/main/patient-data-pca/dimensionality-reduction-documentation.pdf)
 | 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/I84NvnN9u1k)
